@@ -1,0 +1,9 @@
+other/logs/
+other/__pycache__/
+other/models/
+
+official/tb_record/
+
+*.zip
+*.pth
+test*

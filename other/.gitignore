@@ -1,7 +1,0 @@
-logs/
-__pycache__/
-models/
-
-*.zip
-*.pth
-test*
